@@ -8,4 +8,12 @@ Made in **Python 3.12** using **pandas, PyQt5, csv**, sys, os
 - Mass Search and replace
 - Mass Search and Remove Rows
 - Save as *.xlsx (Excel 2007-365 format)
-- Add support for multiple spreadsheets
+- Add support for loading and editing multiple spreadsheets 
+- Custom Dynamic tables
+- Read-Only Sheet generated from custom filters.
+- Autobackup the opened file (Save a backup of the current file state without overwriting the existing one)
+
+
+# Currently Failing 
+- Saving opened Excel Files
+- selecting an empty option of the "Recently Opened" will crash the program
