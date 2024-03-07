@@ -3,7 +3,7 @@ A test/example program whith hability to read excel/CSV files, modify a single t
 
 Made in **Python 3.12** using **pandas, PyQt5, csv**, sys, os
 
-#Future Plans
+# Future Plans
 - Enable a filter section to sort rows as needed
 - Mass Search and replace
 - Mass Search and Remove Rows
